@@ -1,7 +1,7 @@
 # Starter Web Project
 
-This is a simple website project for showing how to use Git and Github. Adding a line for rebasing example. More changes.
-
+This is a simple website project for showing how to use Git and Github. Updating for emergency.
+ 
 ## Introduction
 
 This example is to show different parts of the Git repository and various commands  using a web project.
